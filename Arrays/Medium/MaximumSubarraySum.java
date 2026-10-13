@@ -1,4 +1,4 @@
-package Arrays.Medium;
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int currentsum =nums[0];
